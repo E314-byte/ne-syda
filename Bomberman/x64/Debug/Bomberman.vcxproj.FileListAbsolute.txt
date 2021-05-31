@@ -1,0 +1,9 @@
+C:\Users\lygri\source\repos\Bomberman\x64\Debug\Bomberman.vcxprojAssemblyReference.cache
+C:\Users\lygri\source\repos\Bomberman\x64\Debug\Bomberman.Bomberman.resources
+C:\Users\lygri\source\repos\Bomberman\x64\Debug\Bomberman.vcxproj.GenerateResource.cache
+C:\Users\lygri\source\repos\Bomberman\x64\Debug\Bomberman.exe
+C:\Users\alexa\source\repos\Bomberman\x64\Debug\Bomberman.vcxprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Bomberman\x64\Debug\Bomberman.Bomberman.resources
+C:\Users\alexa\source\repos\Bomberman\x64\Debug\Bomberman.vcxproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Bomberman\x64\Debug\Bomberman.exe
+C:\Users\alexa\source\repos\Bomberman\x64\Debug\Bomberman.MyForm1.resources

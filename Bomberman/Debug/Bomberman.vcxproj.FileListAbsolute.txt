@@ -1,0 +1,4 @@
+C:\Users\lygri\source\repos\Bomberman\Debug\Bomberman.vcxprojAssemblyReference.cache
+C:\Users\lygri\source\repos\Bomberman\Debug\Bomberman.exe
+C:\Users\lygri\source\repos\Bomberman\Debug\Bomberman.vcxproj.GenerateResource.cache
+C:\Users\lygri\source\repos\Bomberman\Debug\Bomberman.Bomberman.resources
